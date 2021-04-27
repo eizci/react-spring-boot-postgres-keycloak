@@ -1,0 +1,17 @@
+.list {
+  text-align: left;
+  margin: auto;
+}
+
+.submit-form {
+  margin: auto;
+}
+
+.edit-form {
+  max-width: 400px;
+}
+
+.btn-success{
+  height: 30px;
+  line-height: 20px;
+}
